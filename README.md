@@ -1,5 +1,5 @@
 # awsm
-Extremely minimal but awesome system
+**Extremely minimal but awesome system**
 
 ## Design Goals:
 - **Minimal**<br>
