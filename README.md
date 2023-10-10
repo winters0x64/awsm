@@ -2,6 +2,6 @@
 Extremely minimal but awesome system
 
 ## Design Goals:
-**Minimal**
-**Productivity Focused**
-**Usable for the end user**
+**Minimal**<br>
+**Productivity Focused**<br>
+**Usable for the end user**<br>
