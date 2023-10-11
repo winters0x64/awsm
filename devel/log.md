@@ -2,7 +2,7 @@
 
 ## Todo
 
-- [] Understand and implement pywal
+- [ ] Understand and implement pywal
 
 
 ## Bins
