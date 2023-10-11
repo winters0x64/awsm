@@ -10,3 +10,7 @@
 ## Bins
 
 alacritty,awesome-git,discord,git,google-chrome
+
+## Logs (small fixes/updates here and there also the reason for making the choice)
+
+-> Added support for touchpad tap to click via libinput.
