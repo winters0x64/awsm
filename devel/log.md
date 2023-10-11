@@ -2,7 +2,9 @@
 
 ## Todo
 
-- [ ] Understand and implement pywal
+- [ ] Learn Awesome,refresh lua concepts and document it.
+- [ ] Split the source files for modularity and document it.
+- [ ] Understand and implement pywal and document it.
 
 
 ## Bins
