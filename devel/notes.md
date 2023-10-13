@@ -6,13 +6,4 @@ One question that might come to the mind of someone seeing this would be why rei
 
 ## Awesome
 
-* For splitting the default rc.lua config file i'm gonna follow this repo [here](https://github.com/suconakh/awesome-awesome-rc).
-    * rc.lua    - would combine all the modularized code.
-    * bindings  - would have bindings for global and client keys and mouse bindings.
-    * config    - variables for apps and tags.
-    * modules   - third party libs eg bling
-    * rules     - client rules
-    * signals   - callback functions on recieving specific signals
-    * widgets   - home to all widgets
-
-
+* Modularizing the config file is an important step to deal with the large config file, i've followed this [great_blog]("http://epsi-rns.github.io/desktop/2019/06/15/awesome-overview.html"), all the required info about the file structure are inside the blog itself.
