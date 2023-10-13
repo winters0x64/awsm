@@ -7,7 +7,7 @@ local home = os.getenv("HOME")
 local _M = {
   -- This is used later as the default terminal and editor to run.
   -- terminal = "xterm",
-  terminal = "xfce4-terminal",
+  terminal = "alacritty",
    
   -- Default modkey.
   -- Usually, Mod4 is the key with a logo between Control and Alt.
