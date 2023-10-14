@@ -6,4 +6,4 @@ One question that might come to the mind of someone seeing this would be why rei
 
 ## Awesome
 
-* Modularizing the config file is an important step to deal with the large config file, i've followed this [great_blog]("http://epsi-rns.github.io/desktop/2019/06/15/awesome-overview.html"), all the required info about the file structure are inside the blog itself.
+* Modularizing the config file is an important step to deal with the large config file, i've followed this [repo]('https://github.com/suconakh/awesome-awesome-rc')
