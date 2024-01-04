@@ -1,8 +1,4 @@
-# awsm
-**Extremely minimal but awesome system**
+# Awsm
 
-## Design Goals:
-- **Minimal**<br>
-- **Aesthetic**<br>
-- **Productivity Focused**<br>
-- **Usable for the end user**<br>
+- Modularised the config - ✅
+- Refactor the modularised config file 
