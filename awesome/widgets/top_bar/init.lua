@@ -1,0 +1,6 @@
+require("widgets.top_bar.main_menu")
+require("widgets.top_bar.text_clock")
+require("widgets.top_bar.main_menu")
+require("widgets.top_bar.prompt_box")
+require("widgets.top_bar.tag_list")
+require("widgets.top_bar.task_list")
